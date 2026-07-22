@@ -1,0 +1,2 @@
+# Patient-Data-Access-and-Protection-through-Block-chain
+Patient Data Access System it's Java Swing &amp; MySQL application that enables secure doctor &amp; patient registration, login, profile management, patient record creation, editing, viewing, &amp; healthcare service management. It includes database connectivity, authentication, role-based access, NetBeans source code, compiled classes, and SQL database files.
